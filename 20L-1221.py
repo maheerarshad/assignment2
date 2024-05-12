@@ -111,7 +111,7 @@ default_args = {
 }
 
 dag = DAG(
-    dag_id='i202416_A2',
+    dag_id='20L-1221_A2',
     default_args=default_args,
     description='webscraping automation ',
      schedule=timedelta(days=1),
